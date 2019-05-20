@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1870,
+                    "y": 236,
                     "ioValues": []
                 }
             ],
@@ -204,8 +204,8 @@
                 {
                     "atomType": "Circle",
                     "name": "Circle",
-                    "x": 284,
-                    "y": 291,
+                    "x": 312,
+                    "y": 290,
                     "uniqueID": 606028,
                     "ioValues": [
                         {
@@ -324,8 +324,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1316,
-                    "y": 164,
+                    "x": 1864,
+                    "y": 198,
                     "ioValues": []
                 }
             ],
