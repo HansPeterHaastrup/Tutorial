@@ -3,7 +3,7 @@
         {
             "atomType": "Molecule",
             "name": "Molecule - Rotate and Move",
-            "x": 816,
+            "x": 853,
             "y": 77,
             "uniqueID": 742531,
             "ioValues": [
@@ -281,7 +281,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Molecule - Rotate and Move",
-                    "x": 816,
+                    "x": 853,
                     "y": 77,
                     "uniqueID": 742531,
                     "ioValues": [
@@ -292,10 +292,27 @@
                     ]
                 },
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 881,
+                    "y": 347,
+                    "uniqueID": 551725,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 1016,
-                    "y": 161,
+                    "x": 1034,
+                    "y": 187,
                     "uniqueID": 140877,
                     "ioValues": [
                         {
